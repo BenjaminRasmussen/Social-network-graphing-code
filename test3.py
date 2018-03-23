@@ -1,0 +1,1 @@
+print(len(set(open("HELLO WORLD", "r").readlines())))
